@@ -25,7 +25,7 @@ I love to learn. , business intelligence, data analysis, data science enthusiast
 <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src=""></a></code>
+<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="download.png">></a></code>
 <code><a href="https://getbootstrap.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://github.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 <code><a href="https://www.kaggle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
