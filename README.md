@@ -3,13 +3,15 @@
 I thrive when I challenge business to look at problems from a different point of view to drive data driven processes and optimization.
 Even though a big part of what I focus on today is strategy and the direction of the team, I am seeking for oppourtunities where I can utilize
 and further develop my analytical and technical skills to solve real world problems related to analyzing big volume datasets, to draw insights that can help with business decisions.
-I love to learn. , business intelligence, data analysis, data science enthusiast 
+ <br>
+ Business Intelligence, Data Analysis, Data Science Enthusiast 
+I love to learn. 
 </h3>
 
 - 💬 Technical Competencies:<br>
   <br>
   ► Programming: Python (Pandas, Keras, Numpy, Seaborn, Matplotlib, OpenCV, BeautifulSoup), T-SQL, PL-SQL <br>
-  ► Visualization: Power BI, Google Data Studio , Tableau <br>
+  ► Visualization: Power BI, Tableau, Google Data Studio <br>
   ► ETL Tools: Microsoft SSIS, SAP Data Services Designer, Oracle Data Integrator 11g <br>
   ► Statistics: Excel <br>
   ► Version Control: Git <br>
@@ -31,7 +33,7 @@ I love to learn. , business intelligence, data analysis, data science enthusiast
 <code><a href="https://www.kaggle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahiraslan&layout=compact&hide=html" alt="Tobiloba Kalejaiye" /></p>
 
-## Contact Me 📫
+## Link up with Me 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/Tobiloba-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tobiloba-kalejaiye-14001294/)
 
