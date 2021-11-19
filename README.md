@@ -5,7 +5,7 @@ focusing on strategy and the direction of the team.<br>
 I am seeking for oppourtunities where I can utilize
 and further develop my analytical and technical skills to solve real world problems related to analyzing big volume datasets, to draw insights that can help with business decisions.
  <br>
- I love to Learn
+ I love to Learn.
 </h3>
 
 - 💬 Technical Competencies:<br>
