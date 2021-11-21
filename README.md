@@ -10,7 +10,7 @@ and further develop my analytical and technical skills to solve real world probl
 
 - 💬 Technical Competencies:<br>
   <br>
-  ► Programming: Python (Pandas, Keras, Numpy, Seaborn, Matplotlib, OpenCV, BeautifulSoup), T-SQL, PL-SQL <br>
+  ► Programming: Python (Pandas, Numpy, Seaborn, Matplotlib, Keras, OpenCV, BeautifulSoup), T-SQL, PL-SQL <br>
   ► Visualization: Power BI, Tableau, Google Data Studio <br>
   ► ETL Tools: Microsoft SSIS, SAP Data Services Designer, Oracle Data Integrator 11g <br>
   ► Statistics: Excel <br>
