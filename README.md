@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Good to have you here !</h1>
+<h1 align="center">Hello, <br> Delighted to have you here !</h1>
 <h3 align="center"> I am a dedicated data analyst with a passion for the intersection between business and technical solutions. 
 I thrive when I challenge business to look at problems from a different point of view to drive data driven processes and optimization, 
 focusing on strategy and the direction of the team.<br>
