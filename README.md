@@ -16,7 +16,7 @@ and further develop my analytical and technical skills to solve real world probl
   ► Version Control: Git <br>
   ► Project Management: Jira, Trello <br>
 
-- 📫 Email: **oladapotoby@gmail.com**
+- 📫 Email: **thetobilobakalejaiye@gmail.com**
 
 ### Technical Skillsets 🧠
 
