@@ -1,5 +1,5 @@
 <h1 align="center">Hello, <br> Delighted to have you here !</h1>
-<h3 align="center"> I am a dedicated data analyst with a passion for the intersection between business and technical solutions. 
+<h3 align="center"> I have a budding passion for the intersection between business and technical solutions. 
 I am intensively keen on fostering innovation in procurement and supply chain for optimization by leveraging data analytics and emerging technology to streamline operations, enhance decision-making, and drive continuous improvement..<br>
 I am seeking for oppourtunities where I can utilize
 and further develop my analytical and technical skills to solve real world problems related to analyzing big volume datasets, to draw insights that can help with business decisions.
